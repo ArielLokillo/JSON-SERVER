@@ -1,0 +1,132 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "dagmar.luth@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Dagmar Luth"
+    },
+    {
+      "id": "2",
+      "usuario": "gavin.allen@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Gavin Allen"
+    },
+    {
+      "id": "3",
+      "usuario": "guiomar.oliveira@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Guiomar Oliveira"
+    },
+    {
+      "id": "4",
+      "usuario": "jeremiah.hill@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Jeremiah Hill"
+    },
+    {
+      "id": "5",
+      "usuario": "same.hopkins@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Same Hopkins"
+    },
+    {
+      "id": "6",
+      "usuario": "manuel.moura@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Manuel Moura"
+    },
+    {
+      "id": "7",
+      "usuario": "emilie.rasmussen@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Emilie Rasmussen"
+    },
+    {
+      "id": "8",
+      "usuario": "cristobal.diaz@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Cristobal Diaz"
+    },
+    {
+      "id": "9",
+      "usuario": "katherine.mills@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Katherine Mills"
+    },
+    {
+      "id": "10",
+      "usuario": "noemie.miller@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Noémie Miller"
+    },
+    {
+      "id": "11",
+      "usuario": "omur.kuzucu@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Omur Kuzucu"
+    },
+    {
+      "id": "12",
+      "usuario": "macit.okur@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Macit Okur"
+    },
+    {
+      "id": "13",
+      "usuario": "adrian.ostmo@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Adrian Ostmo"
+    },
+    {
+      "id": "14",
+      "usuario": "justine.patel@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Justine Patel"
+    },
+    {
+      "id": "15",
+      "usuario": "",
+      "password": "alumnoduoc1234",
+      "nombre": "Mrs Justine"
+    },
+    {
+      "id": "16",
+      "usuario": "maxime.macdonald@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Maxime Macdonald"
+    },
+    {
+      "id": "17",
+      "usuario": "keith.sullivan@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Keith Sullivan"
+    },
+    {
+      "id": "18",
+      "usuario": "bernadete.lopes@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Bernadete Lopez"
+    },    {
+      "id": "19",
+      "usuario": "karoline.revheim@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Karoline Revheim"
+    },
+    {
+      "id": "20",
+      "usuario": "kurilo.shmatko@example.com",
+      "password": "alumnoduoc1234",
+      "nombre": "Kurilo Shmatko"
+    }
+  ],
+
+  "profesores": [
+    {
+      "id": "21",
+      "usuario": "elena.mendez@example.com",
+      "password": "profesorduoc1234",
+      "nombre": "Elena Mendez"
+    }
+  ]
+}
